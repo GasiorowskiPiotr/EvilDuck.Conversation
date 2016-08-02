@@ -1,0 +1,11 @@
+{
+  "name": "depotx-bot",
+  "dependencies": {
+    "node-uuid": "registry:npm/node-uuid#1.4.7+20160723033700"
+  },
+  "globalDependencies": {
+    "bunyan": "registry:dt/bunyan#0.0.0+20160412155112",
+    "node": "registry:dt/node#6.0.0+20160802155038",
+    "restify": "registry:dt/restify#2.0.0+20160726153409"
+  }
+}
